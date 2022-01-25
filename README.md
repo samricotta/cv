@@ -1,3 +1,5 @@
+# Samantha Ricotta
+
 **Contact Information**
 samanthalricotta@gmail.com | github.com/samricotta | +4915209972305
 
