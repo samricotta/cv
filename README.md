@@ -1,5 +1,6 @@
 **Contact Information**
-samanthalricotta@gmail.com | github.com/samricotta | +4915209972305
+
+samanthalricotta@gmail.com | github.com/samricotta
 
 ## Experience
 ### Amorelie – Rails Developer December 2020 – Present	
